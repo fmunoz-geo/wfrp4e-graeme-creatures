@@ -1,0 +1,33 @@
+{
+  "name": "wfrp4e-graeme-creatures",
+  "title": "WFRP4e – Graeme Davis' Creatures",
+  "description": "Creatures from Graeme Davis Blog for Warhammer Fantasy Roleplay 4e",
+  "version": "1.0.0",
+  "author": "fmunoz",
+  "minimumCoreVersion": "0.9.0",
+  "compatibleCoreVersion" : "0.9.0",
+  "systems": ["wfrp4e"],
+  "packs": [
+    {
+    "name": "creature_bestiary",
+    "label": "Bestiary (Graeme Davis' Creatures)",
+    "path": "packs/creature-bestiary.db",
+    "entity": "Actor",
+    "module": "wfrp4e-graeme-creatures",
+    "system": "wfrp4e",
+    "tag": "actor"
+    },
+    {
+    "name": "creature_traits",
+    "label": "Traits (Graeme Davis' Creatures)",
+    "path": "packs/creature-traits.db",
+    "entity": "Item",
+    "module": "wfrp4e-graeme-creatures",
+    "system": "wfrp4e",
+    "tag": "traits"
+  }
+  ],
+  "url": "https://github.com/fmunoz-geo/wfrp4e-graeme-creatures",
+  "manifest": "https://github.com/fmunoz-geo/wfrp4e-graeme-creatures/releases/download/1.0.0/module.json",
+  "download": "https://github.com/fmunoz-geo/wfrp4e-graeme-creatures/releases/download/1.0.0/wfrp4e-graeme-creatures.zip"
+}
