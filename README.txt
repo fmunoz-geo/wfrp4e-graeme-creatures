@@ -1,4 +1,4 @@
-This is a collection of creatures converted to WFRP 4th edition by Grame Davis
+This is a collection of creatures converted to WFRP 4th edition by Graeme Davis
 
 
 Francisco Muñoz 2022
